@@ -1,6 +1,7 @@
 <h2 align="center">awesome-open-gpt/gpt相关开源项目合集</h2>
 
 <div align="center">
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
@@ -13,7 +14,6 @@
 - **awesome-open-gpt**是关于GPT开源精选项目的合集（170+全网最全） 🚀，热门项目用🔥标记，其中包括了一些GPT镜像、GPT增强、GPT插件、GPT工具、GPT平替的聊天机器人、开源大语言模型等等。
 - awesome-list的目的是为了让所有GPT关注者更好地关注GPT开源应用，同时也为想要学习和使用GPT模型的人提供了一些有用的资源。
 - awesome-open-gpt会持续更新，希望有更多优秀的GPT相关项目涌现！！！**并且每天会自动更新点赞数（自动更新点赞数的脚本也是利用ChatGPT写的）**。
-- [技术交流](./README_exchange.md)
 
 <!-- TOC -->
 
@@ -390,7 +390,7 @@
 技术交流
 --
 
-<img src='./images/vx.png' width=30%  alt=""/>
+<img src='./images/vx.png' width=60%  alt=""/>
 
 **建议关注公众号【掘金人工智能AI】，更新内容将会第一时间推送给大家。**
 
